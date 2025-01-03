@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Pranav Kumbhar</h1>
 <h3 align="center">A passionate software developer from india </h3>
 
-
-- 🔭 I have experience in languages **JavaScript, MongoDB, ReactJS, NodeJS and ExpressJS**
-
-- 👯 I’m looking to work on **web development, devops**
-
-- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Fearce02?tab=repositories)
-
-- 💬 Ask me about **javascript, reactjs, nodejs, expressjs**
+<div align="center">
+  <ul style="list-style: none; padding: 0;">
+    <li>🔭 I have experience in languages <strong>JavaScript, MongoDB, ReactJS, NodeJS, and ExpressJS</strong>.</li>
+    <li>👯 I’m looking to work on <strong>web development and DevOps</strong>.</li>
+    <li>👨‍💻 All of my projects are available at <a href="https://github.com/Fearce02?tab=repositories" target="_blank">GitHub Repositories</a>.</li>
+    <li>💬 Ask me about <strong>JavaScript, ReactJS, NodeJS, and ExpressJS</strong>.</li>
+  </ul>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
