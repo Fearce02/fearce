@@ -1,15 +1,13 @@
-[![MasterHead](https://i.ibb.co/yV0H2Dd/tech-profile-banner.jpg)](https://fearce02.github.io/Pranav-Portfolio-website/)
 
 <h1 align="center">Hi 👋, I'm Pranav Kumbhar</h1>
 <h3 align="center">A passionate software developer from india </h3>
 
-<img align="right" width="350" src="https://i.ibb.co/5YKJTCj/dark.png" alt="Coding" border="0">
 
 - 🔭 I have experience in languages **JavaScript, MongoDB, ReactJS, NodeJS and ExpressJS**
 
 - 👯 I’m looking to work on **web development, devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fearce02?tab=repositories](https://github.com/Fearce02?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/Fearce02?tab=repositories)
 
 - 💬 Ask me about **javascript, reactjs, nodejs, expressjs**
 
